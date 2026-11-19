@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400&display=swap');
-  background: #000;
+body {
+background: #000;
   color: #ddd;
   font-family: 'IBM Plex Sans', Arial, sans-serif;
   line-height: 1.6;
